@@ -1,5 +1,7 @@
 # LOSR-Logger-v2
 ###Powerful Stealer that steals [all this stuff](#features)
+
+
 **NOTE:** 
 - LO$R Logger v2 was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? Create an issue or contact me on discord!
