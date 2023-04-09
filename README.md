@@ -39,17 +39,17 @@
 - Debug Killer (Kill task gestionary)
 - Bypass TokenProtector / BetterDiscord
 - Take a Screenshot
-- Grabb System Informations
+- Grab System Information
 - Bypass Virus Total machines
 - Bypass VM machines
 - Hide Itself in Background
-- Replace the BTC address copying by your
-- Custom Installer / Setuper
+- Replace the crypto address by your crypto address
+- Custom Installer
 - Icon / Name / Description Customizable
-- Cookies Exploiter Tech (💎)
+- Cookies Exploiter Tech (soon)
 - Steal all Chromium Passwords and Cookies for OperaGX/Opera/GoogleChrome/Brave/Chromium/Torch/Edge/Mozilla and others
-- 0/64 Detect Virus Total Builder (.exe) (💎)
-- Grabb Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable) (💎)
+- 0/64 Detect Virus Total Builder (.exe) (soon)
+- Grab Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable)
 
 
 
