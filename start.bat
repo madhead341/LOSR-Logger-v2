@@ -1,4 +1,4 @@
 @echo off
-title BlackCap Builder v2.3
+title LO$R Logger v2
 python builder.py
 pause
