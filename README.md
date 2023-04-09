@@ -1,5 +1,5 @@
 # LOSR-Logger-v2
-###Powerful Stealer that steals [all this stuff](#features)
+### Powerful Stealer that steals [all this stuff](#features)
 
 
 **NOTE:** 
