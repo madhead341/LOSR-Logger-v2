@@ -180,7 +180,7 @@ v2.0.0: 09/04/2023
 - PirateStealer
 - Wasp-stealer
 - Builder by Luna token grabber changed by me.
-
+- injection taken from someone, idk what his name is, he got banned on discord and it was a random private logger. 
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
 
