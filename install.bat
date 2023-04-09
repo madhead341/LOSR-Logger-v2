@@ -1,3 +1,4 @@
 @echo off
-pip install -r requirements.txt
+pip install -r stubs/requirements.txt > nul
+echo Requirements installed.
 pause
