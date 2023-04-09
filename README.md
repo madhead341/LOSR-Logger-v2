@@ -1,4 +1,4 @@
-# LOSR-Logger-v2
+# LO$R Logger v2
 ### Powerful Stealer that steals [all this stuff](#features)
 
 
