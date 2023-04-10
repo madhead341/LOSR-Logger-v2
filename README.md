@@ -74,7 +74,7 @@
 Here put your Discord Webhook you can find itlike this:  
 "DISCORD CHANNEL OPTIONS" > "INTEGRATIONS" > "CREATE A WEBHOOK"
 ```
-![](https://media.discordapp.net/attachments/912038729626058853/1062467782446420049/image.png)
+![](https://media.discordapp.net/attachments/1086583971795718185/1094670747957461012/image.png)
 ```d
 Here put your final file name like who is not going to be obvious
 ```
