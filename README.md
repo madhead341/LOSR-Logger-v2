@@ -68,8 +68,6 @@
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
 
-
-![](https://media.discordapp.net/attachments/1086583971795718185/1094670747957461012/image.png)
 ```d
 Here put your Discord Webhook you can find itlike this:  
 "DISCORD CHANNEL OPTIONS" > "INTEGRATIONS" > "CREATE A WEBHOOK"
