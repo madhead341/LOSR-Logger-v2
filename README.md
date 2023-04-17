@@ -30,24 +30,40 @@
 
 ## <a id="features"></a>🔰 〢 Features
 
-### Default:
+### Default Stuff:
 
 Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
+
 Steal Chrome Passwords / Cookies / History
+
 Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
+
 Debug Killer (Kill task gestionary)
+
 Bypass TokenProtector / BetterDiscord
+
 Take a Screenshot
+
 Grab System Information
+
 Bypass Virus Total machines
+
+
 Bypass VM machines
+
 Hide Itself in Background
+
 Replace the crypto address by your crypto address
+
 Custom Installer
 Icon / Name / Description Customizable
+
 Cookies Exploiter Tech (soon)
+
 Steal all Chromium Passwords and Cookies for OperaGX/Opera/GoogleChrome/Brave/Chromium/Torch/Edge/Mozilla and others
+
 0/64 Detect Virus Total Builder (.exe) (soon)
+
 Grab Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable)
 
 
@@ -55,13 +71,21 @@ Grab Sensitive Files exodus login / a2f backup codes / tokens / passwords... (ca
 ### Injection:
 
 Nitro Auto Buy
+
 First Start Reporter
+
 New Passwords(ready but takes 40% CPU so it isn't added till better browser injection.
+
 New Emails (soon)
+
 New Login (soon)
+
 New Credit Card
+
 New PayPal (soon)
+
 Anti Delete system (re install after Discord uninstall / Discord Update) [also ready but takes lots of CPU]
+
 + More!
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
