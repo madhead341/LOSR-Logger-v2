@@ -207,3 +207,6 @@ v2.0.0: 09/04/2023
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits, it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/losr/)
