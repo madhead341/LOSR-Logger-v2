@@ -74,15 +74,15 @@ Nitro Auto Buy
 
 First Start Reporter
 
-New Passwords(ready but takes 40% CPU so it isn't added till better browser injection.
+New Passwords (ready but takes 40% CPU so it isn't added till better browser injection.)
 
-New Emails (soon)
+New Emails (eats CPU)
 
-New Login (soon)
+New Login (soon, eats CPU)
 
-New Credit Card
+New Credit Card (soon eats CPU)
 
-New PayPal (soon)
+New PayPal (soon, eats CPU)
 
 Anti Delete system (re install after Discord uninstall / Discord Update) [also ready but takes lots of CPU]
 
