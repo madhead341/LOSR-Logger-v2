@@ -192,7 +192,7 @@ v2.0.0: 09/04/2023
 ```
 
 
-### This Project is now on BlackHat Russia! ([blackhatrussia.com](https://www.blackhatrussia.com))
+### This Project is now on BlackHat Russia! ([blackhatrussia.com](https://www.blackhatrussia.com/1774-lor-logger-v2.html)
 
 
 ### Contributors
