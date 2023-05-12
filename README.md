@@ -191,8 +191,10 @@ v2.0.0: 09/04/2023
 + AntiDebug More Powerfull (check ip)
 ```
 
-###
-This Project is now on BlackHat Russia! [blackhatrussia.com](https://www.blackhatrussia.com)
+
+### This Project is now on BlackHat Russia! ([blackhatrussia.com](https://www.blackhatrussia.com))
+
+
 ### Contributors
 - LO$R#0001
 
