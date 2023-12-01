@@ -3,7 +3,7 @@
 
 
 **NOTE:** 
-- Officiallydiscontinued since i don't have the time to patch a major bug. I al working on LOSR-LOGGER V3, i'll keep you guys updated.
+# - Officially discontinued since i don't have the time to patch a major bug. I al working on LOSR-LOGGER V3, i'll keep you guys updated.
 - LO$R Logger v2 was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? Create an issue or contact me on discord!
 
